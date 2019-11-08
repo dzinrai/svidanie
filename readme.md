@@ -1,0 +1,1 @@
+![SvidanieTUT screen](https://github.com/dzinrai/svidanie/blob/master/scr.png)
